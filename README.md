@@ -1,5 +1,4 @@
 # Rock-paper-scissors
-# Write code below 💖
 import random  
 print("===================")
 print("Rock Paper Scissors")
